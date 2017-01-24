@@ -8,7 +8,7 @@
 
 import UIKit
 
-class DisplayViewController: UITableViewController {
+class DisplayTableViewController: UITableViewController {
     let defaults = UserDefaults.standard
 
     @IBOutlet var sliderDisplayBrightness: UISlider!
