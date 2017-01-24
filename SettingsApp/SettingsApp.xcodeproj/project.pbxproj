@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		855800391E3738B60035D577 /* VolumeTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 855800381E3738B60035D577 /* VolumeTableViewController.swift */; };
+		8558003B1E374C5C0035D577 /* TextSizeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8558003A1E374C5C0035D577 /* TextSizeViewController.swift */; };
 		85EA3F701E36503000A761D6 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85EA3F6F1E36503000A761D6 /* AppDelegate.swift */; };
 		85EA3F721E36503000A761D6 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85EA3F711E36503000A761D6 /* ViewController.swift */; };
 		85EA3F751E36503000A761D6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 85EA3F731E36503000A761D6 /* Main.storyboard */; };
@@ -18,6 +19,7 @@
 
 /* Begin PBXFileReference section */
 		855800381E3738B60035D577 /* VolumeTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = VolumeTableViewController.swift; sourceTree = "<group>"; };
+		8558003A1E374C5C0035D577 /* TextSizeViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TextSizeViewController.swift; sourceTree = "<group>"; };
 		85EA3F6C1E36503000A761D6 /* SettingsApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SettingsApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		85EA3F6F1E36503000A761D6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		85EA3F711E36503000A761D6 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -66,6 +68,7 @@
 				85EA3F7B1E36503000A761D6 /* Info.plist */,
 				85FDA9FC1E372F7B0041D31A /* DisplayTableViewController.swift */,
 				855800381E3738B60035D577 /* VolumeTableViewController.swift */,
+				8558003A1E374C5C0035D577 /* TextSizeViewController.swift */,
 			);
 			path = SettingsApp;
 			sourceTree = "<group>";
@@ -147,6 +150,7 @@
 				855800391E3738B60035D577 /* VolumeTableViewController.swift in Sources */,
 				85FDA9FD1E372F7B0041D31A /* DisplayTableViewController.swift in Sources */,
 				85EA3F701E36503000A761D6 /* AppDelegate.swift in Sources */,
+				8558003B1E374C5C0035D577 /* TextSizeViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
